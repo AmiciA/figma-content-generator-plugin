@@ -1,3 +1,7 @@
+ℹ️ Intend to merge with https://amicia.github.io/portfolio/cantogen/ if/when I have time.
+
+---
+
 <h1 align="center">Figma Content Generator Plugin</h1>
 
 <p align="center">Figma app plugin for generating placeholder content such as avatars, names, addresses, geo data and more.</p>
